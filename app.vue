@@ -1,5 +1,5 @@
 <template>
-  <div>Demo for vue custom renderer in worker
+  <div>Demo for .vue file in worker
   </div>
 </template>
 
